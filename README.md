@@ -1,7 +1,5 @@
 # FilesystemEvents
 Monitoring filesystem events
-
-# Build
+# Notification
 gcc -o notification notification.c
-# USAGE: 
 ./notification /folder/path
